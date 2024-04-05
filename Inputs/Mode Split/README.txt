@@ -1,0 +1,1 @@
+Fill out this readme to explain how the mode split application files are created

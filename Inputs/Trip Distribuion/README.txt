@@ -1,0 +1,1 @@
+Fill out this readme to explain how the trip distribution application files are created
